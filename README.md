@@ -13,7 +13,7 @@ The main purpose of Global Protect Launcher is to simplify the process of toggli
 
 ## How to Use
 
-1. Download Global Protect Launcher from the [releases](link-to-releases) page.
+1. Download Global Protect Launcher by clicking [here](https://github.com/SethuSenthil/Global-Protect-VPN-Launcher/releases/download/Stable/Global-Protect-Launcher.zip) page.
 2. Install the app on your MacOS system.
 3. Launch Global Protect Launcher.
 4. Use the app to toggle the Global Protect VPN connection as needed.
